@@ -15,13 +15,13 @@ cd /path/to/your_folder
 ```
 git init
 ```
-5. Clone the repository. Download the hackathon repository from GitHub:
+5. Clone the repository. Download the specific repository from GitHub:
 ```
-git clone https://github.com/bior-lab/modelica-hackathon.git
+git clone https://github.com/bior-lab/YOUR-REPO-NAME.git
 ```
 6. Enter the repository folder
 ```
-cd modelica-hackathon
+cd YOUR-REPO-NAME
 ```
 
 ## Push your updates to GitHub
