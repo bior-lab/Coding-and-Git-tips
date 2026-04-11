@@ -1,6 +1,8 @@
 # Coding and Git tips
 
-## Setting the repository on your own PC using Git
+## Git
+
+### Setting the repository on your own PC using Git
 
 1. Download and install Git from https://git-scm.com/downloads
 2. Verify installation. Open your terminal and check that Git is installed correctly:
@@ -24,7 +26,7 @@ git clone https://github.com/bior-lab/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME
 ```
 
-## Push your updates to GitHub
+### Push your updates to GitHub
 
 After you finish editing or adding files, follow these steps to upload your work:
 
